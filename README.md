@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://i.ibb.co.com/Y4Lnyh8V/Untitled-design-5.png"  />
+  <img height="400" src="https://i.ibb.co/Y4Lnyh8V/Untitled-design-5.png"  />
 </div>
 
 ###
@@ -85,7 +85,8 @@
 ###
 
 ## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahidiShikder&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahidiShikder&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahidiShikder&layout=compact&theme=dark)
+
 
