@@ -83,3 +83,9 @@
 </div>
 
 ###
+
+## 📊 GitHub Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=dark)
+
