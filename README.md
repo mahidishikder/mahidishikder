@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://i.ibb.co/Y4Lnyh8V/Untitled-design-5.png"  />
+  <img height="400" src="https://i.ibb.co.com/Y4Lnyh8V/Untitled-design-5.png"  />
 </div>
 
 ###
@@ -12,19 +12,19 @@
 
 ###
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="left">👨‍💻 About Me</h2>
 
 ###
 
-<p align="center">I am a Frontend Developer with a strong interest in creating beautiful and user-friendly websites.<br>💡 Right now, I am focusing on learning and working with Next.js to build modern web applications.<br>🔍 I enjoy exploring new technologies and constantly improving my skills in web design and development to create better user experiences.</p>
+<p align="left">I am a Frontend Developer with a strong interest in creating beautiful and user-friendly websites.<br>💡 Right now, I am focusing on learning and working with Next.js to build modern web applications.<br>🔍 I enjoy exploring new technologies and constantly improving my skills in web design and development to create better user experiences.</p>
 
 ###
 
-<h3 align="center">🚀 Current Activities</h3>
+<h3 align="left">🚀 Current Activities</h3>
 
 ###
 
-<p align="center">🔥 I am currently learning Next.js and building projects with it.<br>💻 I am working on improving my React skills by building real-world applications.<br>🛠️ Exploring Tailwind CSS for efficient styling in web development.</p>
+<p align="left">🔥 I am currently learning Next.js and building projects with it.<br>💻 I am working on improving my React skills by building real-world applications.<br>🛠️ Exploring Tailwind CSS for efficient styling in web development.</p>
 
 ###
 
@@ -84,12 +84,14 @@
 
 ###
 
-<h2 align="center">📊 GitHub Stats</h2>  
+<h2 align="center">📊 GitHub Stats</h2>
+
 <div align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahidiShikder&theme=dark)  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahidiShikder&show_icons=true&theme=dark)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahidiShikder&layout=compact&theme=dark)
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MahidiShikder&theme=dark" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahidiShikder&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahidiShikder&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
+
 
 
 
